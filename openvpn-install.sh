@@ -1151,7 +1151,7 @@ function newClient() {
 	echo ""
 	echo "---------------------------------------------------------------"
 	echo "Đã tiến hành cấu hình thành công: $homeDir/$CLIENT.ovpn."
-	echo "Tải xuống tệp .ovpn ở dường dẫn: $homeDir/$CLIENT.ovpn. và nhập tệp đó vào ứng dụng OpenVPN client của bạn."
+	echo "Tải xuống tệp .ovpn ở dường dẫn: $homeDir/$CLIENT.ovpn và nhập tệp đó vào ứng dụng OpenVPN client của bạn."
 	echo "---------------------------------------------------------------"
 
 	exit 0
